@@ -1,9 +1,0 @@
-extends ./_layout
-
-block content
-
-	table(width="1320" height="189" border="0" align="center" style='text="#FF0000";')
-		tr
-			td(width="1314" align="center" valign="top")
-				h1:img(src="img/melodiclogo2.gif" width="402" height="174")
-	
